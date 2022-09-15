@@ -1,0 +1,4 @@
+nama : argian wibiantoro
+umur : 24
+stack : mobile
+bahasa pemrograman : kotlin
